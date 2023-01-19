@@ -1,0 +1,188 @@
+.main_image{
+    min-height: 100vh;
+    background-image: url("../image/main.png");
+    background-color: #03a9f4;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+  
+}
+.ourapp_image{
+    min-height: 100vh;
+    background-image: url("../image/2.png");
+    background-color: #03a9f4;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+}
+.register_image{
+    min-height: 100vh;
+    background-image: url("../image/white_background.png");
+    background-color: #03a9f4;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+}
+.download_image{
+    min-height: 100vh;
+    background-image: url("../image/main.png");
+    background-color: #03a9f4;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+}
+.sitelist_image{
+    min-height: 100vh;
+    background-image: url("../image/5.png");
+    background-color: #03a9f4;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+}
+.nav_color{
+    color:white !important;
+    font-size: 20px;
+}
+.border_state{
+    border-bottom: 3px solid #06edc2;
+}
+.avatar_style{
+    width: 25px;
+    border-radius: 50%;
+}
+.brand{
+    height: 70px;
+    width:65px;
+}
+
+.card0{
+    margin-top:60px;
+    padding-left: 20px;
+    font-size: 4em;
+    color:black;
+    font-weight: 700;
+    font-family: ui-monospace;
+}
+.card1{
+    margin-top:-40px;
+
+}
+.card1_1{
+    margin-top:-10px;
+
+}
+.card2{
+    margin-top:60px;
+
+}
+.card{
+    margin: 8% 0% 2% 0%;
+  }
+  
+.card-body{
+margin: 0% 0% 0% 3%;
+padding: 6% 0%;
+}
+  
+.nav_size{
+    font-family: Open Sans;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 12px;
+    line-height: 1.5em;
+    letter-spacing: 1px;
+    color: black;
+}
+.nav_back{
+    padding-top:0px;
+    padding-bottom:0px;
+    background-color: white;
+    opacity:0.8;
+}
+.main_text{
+    margin-top:14vw;
+    font-weight: 700;
+    font-size: 3em;
+    color: rgb(255, 21, 21);
+    text-align: left;
+    font-family: ui-monospace;
+}
+.about_content{
+    background-image: url("../image/img.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding:3vw 1.5vw;
+    color:black;
+    font-family: ui-monospace;
+}
+.download_content{
+    /* height:425px; */
+    background-image: url("../image/phone_2_1.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding:3vw 1.5vw;
+    color:black;
+    font-family: ui-monospace;
+    position: relative;
+    /* top: -100px; */
+}
+.register_content{
+
+    /* height:425px; */
+    background-image: url("../image/img.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding:3vw 1.5vw;
+    color:black;
+    font-family: ui-monospace;
+    position: relative;
+    /* top: -100px; */
+   
+}
+.download_h3{
+    
+    margin-top:80px;
+    font-weight: 700;
+    font-size: 2.5em;
+    color:black;
+    font-family: ui-monospace;
+}
+.download_h5{
+    margin-top:30px;
+    margin-bottom:40px;
+    font-weight: 700;
+    font-size: 1.8em;
+    color:black;
+    font-family: ui-monospace;
+}
+.hover-rotate{
+    width: 100%;
+    height:100%;
+    transition: transform 1.5s; /* Apply the transition property. Enables the animation */
+  }
+  .hover-rotate:hover{
+    transform: rotateY(180deg); /* Rotate if mouse is hovered */
+  }
+  .hover-rotate.collapse{
+    transform: rotateY(180deg); /* Rotate if collapse class is present */
+  }
+  .site_form{
+    padding-top: 29px;
+    display:none;
+    background-color:white; 
+  }
+  .overlay{
+    height: 145px;
+  }
+  .form_style{
+      font-size: 13px;
+  }
+  
